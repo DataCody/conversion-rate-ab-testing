@@ -8,5 +8,5 @@ An interactive data visualization project that analyzes and compares the perform
 
 [👉 Click here to view the interactive Power BI report](https://public.tableau.com/app/profile/ce.hou/viz/1_17391485467850/TestComparasion)
 
-![Dashboard Preview](ab testing dashboard.png)
+![Dashboard Preview](images/dashboard.png)
 ⚠️ This report is for portfolio demonstration purposes only and uses sample (non-sensitive) data.
